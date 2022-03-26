@@ -219,7 +219,7 @@
                         <h4 class="text-uppercase mb-4">Mes Projets</h4>
                         <p class="lead mb-0">
                             Pour retrouver l'ensemble de mes projets cliquez sur le liens ci-après -> 
-                            <a href="https://idrisse-mze-hamadi.students-laplateforme.io/index.php/">Mes projets</a>
+                            <a href="https://idrisse-mze-hamadi.students-laplateforme.io/sommaire.php/">Mes projets</a>
                         </p>
                     </div>
                 </div>
