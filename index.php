@@ -70,7 +70,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/pendu.png" alt="..." />
+                            <img class="img-fluid" src="site-perso/assets/img/portfolio/pendu.png" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -79,7 +79,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/voyage.png" alt="..." />
+                            <img class="img-fluid" src="site-perso/assets/img/portfolio/voyage.png" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 3-->
@@ -88,7 +88,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/livreor.png" alt="..." />
+                            <img class="img-fluid" src="site-perso/assets/img/portfolio/livreor.png" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 4
@@ -97,7 +97,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/blog.png" alt="..." />
+                            <img class="img-fluid" src="site-perso/assets/img/portfolio/blog.png" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 5
@@ -106,7 +106,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/.png" alt="..." />
+                            <img class="img-fluid" src="site-perso/assets/img/portfolio/.png" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 6
@@ -115,7 +115,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/.png" alt="..." />
+                            <img class="img-fluid" src="site-perso/assets/img/portfolio/.png" alt="..." />
                         </div>
                     </div>-->
                 </div>
@@ -139,7 +139,7 @@
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" href="assets/cvmzeidrisse.pdf">
+                    <a class="btn btn-xl btn-outline-light" href="site-perso/assets/cvmzeidrisse.pdf">
                         <i class="fas fa-download me-2"></i>
                         Télécharger mon CV!
                     </a>
@@ -151,17 +151,17 @@
             <ul class="thumbnails list-unstyled d-flex align-items-center justify-content-center h-100 w-100">
                 <li class="span4">
                     <a href="#!" class="thumbnail">
-                        <img class="img-fluid" src="assets/img/skill/html-css.png" alt="...">
+                        <img class="img-fluid" src="site-perso/assets/img/skill/html-css.png" alt="...">
                     </a>
                 </li>
                 <li class="span4">
                     <a href="#!" class="thumbnail">
-                        <img class="img-fluid" src="assets/img/skill/php.png" width="170px"alt="...">
+                        <img class="img-fluid" src="site-perso/assets/img/skill/php.png" width="170px"alt="...">
                     </a>
                 </li>
                 <li class="span4">
                     <a href="#!" class="thumbnail">
-                        <img class="img-fluid" src="assets/img/skill/javascript.png" width="190px" alt="...">
+                        <img class="img-fluid" src="site-perso/assets/img/skill/javascript.png" width="190px" alt="...">
                     </a>
                 </li>
                 <li class="span4">
@@ -248,7 +248,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/pendu.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="site-perso/assets/img/portfolio/pendu.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Jeu du pendu avec pour thème le farwest.</p>
                                     <button class="btn btn-primary" href="#" data-bs-dismiss="modal">
@@ -280,7 +280,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/voyage.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="site-perso/assets/img/portfolio/voyage.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Premier projet lors de l'initiation a l'HTML/CSS réalisé en groupe.</p>
                                     <button class="btn btn-primary" href="#" data-bs-dismiss="modal">
@@ -312,7 +312,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/livreor.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="site-perso/assets/img/portfolio/livreor.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Projet livre or réalisé lors de l'initiation au PHP et aux bases de données.</p>
                                     <button class="btn btn-primary" href="#" data-bs-dismiss="modal">
@@ -344,7 +344,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="site-perso/assets/img/portfolio/game.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
@@ -408,9 +408,9 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-4">(TEXT)</p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Close Window
